@@ -2,7 +2,7 @@
 - 👀 I’m interested in Developement Discord and Minecraft.
 - 🌱 I’m currently learning Software.
 - 💞️ I’m looking to collaborate on Discord. 
-- 📫 How to reach me https://discord.gg/antares
+- 📫 How to reach me https://discord.gg/central-agency
 
 ![DevPapo GitHub stats](https://github-readme-stats.vercel.app/api?username=devpapo&show_icons=true&theme=dark)
 
