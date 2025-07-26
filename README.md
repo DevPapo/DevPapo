@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Discord. 
 - 📫 How to reach me https://discord.gg/central-agency
 
-![DevPapo GitHub stats](https://github-readme-stats.vercel.app/api?username=devpapo&show_icons=true&theme=dark)
+![DevPapo GitHub stats](https://github-readme-stats.vercel.app/api?username=devpapo&show_icons=true&theme=date_night)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devpapo&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 <!---
